@@ -1,0 +1,4 @@
+{
+    "port": 19132,
+    "databasePath": "./data/client/database.json"
+}
